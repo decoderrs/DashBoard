@@ -1,0 +1,3 @@
+export const ADD_COUNTRY = 'ADD_COUNTRY';
+export const COUNTRY_LOADING = 'LOADING_COUNTRY';
+export const COUNTRY_FAILED = 'COUNTRY_FAILED';
